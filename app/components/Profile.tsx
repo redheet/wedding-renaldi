@@ -36,22 +36,22 @@ function Profile() {
         <div className="flex flex-col items-end text-right gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
             <h1 className="italic text-2xl font-light">
-              Rizkianty Retha Nurtriana
+              Aulia
             </h1>
           </RevealWrapper>
           <p className="text-sm leading-relaxed">
             <strong>Putri dari</strong>
             <br />
-            Bapak Drs Triwiyanto (Alm) dan
+            Bapak Drs Anu (Alm) dan
             <br />
-            Ibu Nurleila Entjik Agus Hasyim
+            Ibu Anu
           </p>
           <a
-            href="https://www.instagram.com/lemonnestt/"
+            href="#"
             className="text-sm text-white bg-[#424242] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
           >
             <AiOutlineInstagram />
-            <span>lemonnestt</span>
+            <span>Aulia</span>
             <HiArrowLongRight />
           </a>
         </div>
@@ -75,22 +75,22 @@ function Profile() {
         <div className="flex flex-col items-start text-left gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
             <h1 className="italic text-2xl font-light">
-              Akbar Pramono Ramadhan
+              Septian Renaldi Yusuf
             </h1>
           </RevealWrapper>
           <p className="text-sm leading-relaxed">
             <strong>Putra dari</strong>
             <br />
-            Bapak Nuryantoro (Alm) dan
+            Bapak Anu (Alm) dan
             <br />
-            Ibu Masaat Said
+            Ibu Anu
           </p>
           <a
-            href="https://www.instagram.com/akbar/"
+            href="#"
             className="text-sm text-white bg-[#424242] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
           >
             <AiOutlineInstagram />
-            <span>akbar</span>
+            <span>Renaldi</span>
             <HiArrowLongRight />
           </a>
         </div>

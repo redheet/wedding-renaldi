@@ -22,7 +22,7 @@ function Footer() {
               </p>
             </RevealWrapper>
             <RevealWrapper duration={1500} origin="bottom">
-              <h1 className="text-[1.75rem] font-light">Akbar & Retha</h1>
+              <h1 className="text-[1.75rem] font-light">Aulia & Renaldi</h1>
             </RevealWrapper>
           </div>
         </div>

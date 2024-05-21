@@ -21,15 +21,15 @@ function Hero({
         <div className="flex flex-col justify-between py-28 px-12 text-center z-20 relative h-screen">
           <div>
             <p className="font-extralight text-[0.75rem]">The Wedding of</p>
-            <h1 className="text-4xl font-light mt-2">Akbar & Retha</h1>
+            <h1 className="text-4xl font-light mt-2">Aulia & Renaldi</h1>
             <p className="font-extralight text-[0.8rem] mt-4">
-              Monday, 20 April 2069
+              Saturday, 03 Agustus 2024
             </p>
           </div>
           <div className="flex flex-col items-center gap-2">
-            <p className="text-[0.8rem]">Mercure Bandung City Center</p>
+            <p className="text-[0.8rem]">Depok Town Center</p>
             <p className="text-[0.8rem]">
-              Jl. Lengkong Besar No.8, Cikawao, Kec. Lengkong, Kota Bandung
+              Jl. Mampang indah 2 No.11, Depok, Sleman, DKI
             </p>
             <RevealWrapper duration={4000} origin="bottom">
               <a

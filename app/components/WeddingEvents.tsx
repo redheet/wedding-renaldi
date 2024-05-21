@@ -35,15 +35,15 @@ function WeddingEvents() {
                   </p>
                   <p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
                     <strong className="text-black font-bold">
-                      Mercure Bandung City Center
+                      IYSA Office
                     </strong>
                     <br />
-                    Jl. Lengkong Besar No.8, Cikawao, Kec. Lengkong, Kota
-                    Bandung
+                    Jl. Kemang, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519
                   </p>
                   <a
-                    href="https://www.google.com/maps/place/Mercure+Bandung+City+Centre/@-6.9238326,107.608777,17z/data=!3m1!4b1!4m9!3m8!1s0x2e68e628c43b0159:0x7ad6a19680a00592!5m2!4m1!1i2!8m2!3d-6.9238326!4d107.6113519!16s%2Fg%2F11c5ggy5hx"
+                    href="https://www.google.com/maps/place/IYSA/@-6.4313337,106.7800673,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69e906913915c7:0x1de9ddf653d9736f!8m2!3d-6.4313337!4d106.7826422!16s%2Fg%2F11fq8qzg0s?entry=ttu"
                     className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
+                    target="_blank"
                   >
                     GOOGLE MAPS
                   </a>
@@ -76,15 +76,15 @@ function WeddingEvents() {
                   </div>
                   <p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
                     <strong className="text-black font-bold">
-                      Mercure Bandung City Center
+                      IYSA Office
                     </strong>
                     <br />
-                    Jl. Lengkong Besar No.8, Cikawao, Kec. Lengkong, Kota
-                    Bandung
+                    Jl. Kemang, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519
                   </p>
                   <a
-                    href="https://www.google.com/maps/place/Mercure+Bandung+City+Centre/@-6.9238326,107.608777,17z/data=!3m1!4b1!4m9!3m8!1s0x2e68e628c43b0159:0x7ad6a19680a00592!5m2!4m1!1i2!8m2!3d-6.9238326!4d107.6113519!16s%2Fg%2F11c5ggy5hx"
+                    href="https://www.google.com/maps/place/IYSA/@-6.4313337,106.7800673,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69e906913915c7:0x1de9ddf653d9736f!8m2!3d-6.4313337!4d106.7826422!16s%2Fg%2F11fq8qzg0s?entry=ttu"
                     className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
+                    target="_blank"
                   >
                     GOOGLE MAPS
                   </a>
