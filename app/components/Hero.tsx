@@ -10,7 +10,7 @@ function Hero({
 }: {
   setCurrentOverflow: React.Dispatch<React.SetStateAction<string>>;
 }) {
-  const [play] = useSound("/audio/backsound.mp3", {
+  const [play] = useSound("/audio/backsound-2.mp3", {
     volume: 0.25,
   });
 
