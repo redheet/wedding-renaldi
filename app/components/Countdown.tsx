@@ -29,7 +29,7 @@ function CountdownComp() {
 
   return (
     <section id="countdown">
-      <div className="min-h-screen bg-[url('/images/countdown/bg.jpg')] bg-cover bg-[44.5%] text-white relative py-28 flex items-end">
+      <div className="min-h-screen bg-[url('/images/countdown/countdown.JPG')] bg-cover bg-[44.5%] text-white relative py-28 flex items-end">
         <div className="absolute inset-0 bg-black/30" />
         <div className="relative py-8 px-10 w-full">
           <div
@@ -43,7 +43,7 @@ function CountdownComp() {
               <div className="grid grid-cols-2 border-y border-y-white text-center text-[0.75rem] font-light">
                 <p className="leading-[1.85] py-2 px-2 border-r border-r-white flex flex-col gap-2">
                   <span>SAVE THE DATE</span>
-                  <span>Saturday, 03 Agustus 2024</span>
+                  <span>Sabtu, 03 Agustus 2024</span>
                 </p>
                 <p className="py-2 px-2 flex flex-col gap-2">
                   <span>COUNTDOWN</span>

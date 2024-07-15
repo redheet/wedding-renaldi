@@ -26,22 +26,22 @@ function WeddingEvents() {
                 </div>
                 <div className="w-[80%] bg-white px-4 py-6 rounded-br-[1.25rem] flex flex-col gap-5 items-baseline">
                   <h1 className="italic text-xl font-light">
-                    Saturday, 3 June 2023
+                    Sabtu, 3 Agustus 2024
                   </h1>
                   <hr className="border border-[#5a5a5a80] w-full" />
                   <p className="flex items-center text-[#5a5a5a] font-light text-sm gap-1.5">
                     <AiFillClockCircle />
-                    <span>08.00 WIB - 11.00 WIB</span>
+                    <span>09.00 WIB - Selesai</span>
                   </p>
                   <p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
                     <strong className="text-black font-bold">
-                      IYSA Office
+                    Kediaman Mempelai Wanita
                     </strong>
                     <br />
-                    Jl. Kemang, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519
+                    Jl. Sasak, RT.002/007 No.136, Kel. Kalimulya, Kec. Cilodong, Depok
                   </p>
                   <a
-                    href="https://www.google.com/maps/place/IYSA/@-6.4313337,106.7800673,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69e906913915c7:0x1de9ddf653d9736f!8m2!3d-6.4313337!4d106.7826422!16s%2Fg%2F11fq8qzg0s?entry=ttu"
+                    href="https://www.google.com/maps/place/6%C2%B025'52.3%22S+106%C2%B049'29.7%22E/@-6.4311944,106.8223418,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.4311944!4d106.8249167?entry=ttu"
                     className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                     target="_blank"
                   >
@@ -61,28 +61,25 @@ function WeddingEvents() {
               <div className="flex">
                 <div className="w-[80%] bg-white px-4 py-6 rounded-bl-[1.25rem] flex flex-col gap-5 items-baseline">
                   <h1 className="italic text-xl font-light">
-                    Saturday, 3 June 2023
+                    Sabtu, 3 Agustus 2024
                   </h1>
                   <hr className="border border-[#5a5a5a80] w-full" />
                   <div>
                     <p className="flex items-center text-[#5a5a5a] font-light text-[0.8rem] gap-1.5">
                       <AiFillClockCircle />
-                      <span>12.00 WIB - 14.00 WIB (Base 1)</span>
+                      <span>11.00 WIB - Selesai</span>
                     </p>
-                    <p className="flex items-center text-[#5a5a5a] font-light text-[0.8rem] gap-1.5 mt-1">
-                      <AiFillClockCircle />
-                      <span>15.00 WIB - 17.00 WIB (Base 2)</span>
-                    </p>
+                    
                   </div>
                   <p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
                     <strong className="text-black font-bold">
-                      IYSA Office
+                    Kediaman Mempelai Wanita
                     </strong>
                     <br />
-                    Jl. Kemang, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519
+                    Jl. Sasak, RT.002/007 No.136, Kel. Kalimulya, Kec. Cilodong, Depok
                   </p>
                   <a
-                    href="https://www.google.com/maps/place/IYSA/@-6.4313337,106.7800673,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69e906913915c7:0x1de9ddf653d9736f!8m2!3d-6.4313337!4d106.7826422!16s%2Fg%2F11fq8qzg0s?entry=ttu"
+                    href="https://www.google.com/maps/place/6%C2%B025'52.3%22S+106%C2%B049'29.7%22E/@-6.4311944,106.8223418,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.4311944!4d106.8249167?entry=ttu"
                     className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                     target="_blank"
                   >

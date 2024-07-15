@@ -14,29 +14,33 @@ function Hero({
     volume: 0.25,
   });
 
+  // const nama = ['Noufal Zainudin Zidane', 'Muhammad Yusuf Maulana', 'Dhea Zulfa'];
+
   return (
     <section id="hero">
-      <div className="min-h-screen bg-[url('/images/hero/bg.jpg')] bg-cover bg-center text-white relative">
+      <div className="min-h-screen bg-[url('/images/hero/Hero.JPG')] bg-cover bg-center text-white relative">
         <div className="absolute inset-0 bg-black/70 z-10" />
         <div className="flex flex-col justify-between py-28 px-12 text-center z-20 relative h-screen">
           <div>
             <p className="font-extralight text-[0.75rem]">The Wedding of</p>
-            <h1 className="text-4xl font-light mt-2">Aulia & Renaldi</h1>
+            <h1 className="text-4xl font-light mt-2 font-sans">Aulia & Renaldi</h1>
             <p className="font-extralight text-[0.8rem] mt-4">
-              Saturday, 03 Agustus 2024
+              Sabtu, 03 Agustus 2024
             </p>
           </div>
+          {/* {nama.map((tamu) => ( */}
           <div className="flex flex-col items-center gap-2">
-            <p className="text-[0.8rem]">Depok Town Center</p>
+            <p className="text-[0.8rem]">Kediaman Mempelai Wanita</p>
             <p className="text-[0.8rem]">
-              Jl. Mampang indah 2 No.11, Depok, Sleman, DKI
+            Jl. Sasak, RT.002/007 No.136, Kel. Kalimulya, Kec. Cilodong, Depok
             </p>
+            {/* <p>{tamu}</p> */}
             <RevealWrapper duration={4000} origin="bottom">
               <a
                 href="#countdown"
                 onClick={() => {
                   setCurrentOverflow("auto");
-                  play();
+                  // play();
                 }}
                 className="font-bold text-sm bg-[#ffffff36] border border-[#bdb08f8c] rounded-lg flex items-center gap-2 px-6 py-3 mt-6 hover:scale-90 ease-linear duration-[0.2s]"
               >
@@ -44,7 +48,9 @@ function Hero({
                 <span>Buka Undangan</span>
               </a>
             </RevealWrapper>
+            
           </div>
+            {/* ))} */}
         </div>
       </div>
     </section>
