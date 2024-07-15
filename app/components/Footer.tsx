@@ -4,7 +4,7 @@ import { RevealWrapper } from "next-reveal";
 function Footer() {
   return (
     <section id="footer">
-      <div className="h-screen bg-[url('/images/gallery/5.jpg')] bg-cover bg-[47.5%] bg-no-repeat flex items-end">
+      <div className="h-screen bg-[url('/images/gallery/footer.JPG')] bg-cover bg-[47.5%] bg-no-repeat flex items-end">
         <div className="relative">
           <div className="bg-[linear-gradient(180deg,#FFFFFF00_0%,#424242_67%)] absolute inset-x-0 bottom-0 -top-24"></div>
           <div className="flex flex-col items-center text-center gap-4 text-white p-6 z-10 relative">

@@ -13,7 +13,7 @@ function Gallery() {
           </h1>
           <div className="flex flex-col items-center text-center gap-4 my-10">
             <img
-              src="/images/gallery/1.jpg"
+              src="/images/gallery/quote.JPG"
               alt="quote"
               className="w-[170px] h-[220px] object-cover"
             />
@@ -32,7 +32,7 @@ function Gallery() {
           </div>
           <RevealWrapper origin="right" duration={1500}>
             <img
-              src="/images/gallery/3.jpg"
+              src="/images/gallery/bigGird.JPG"
               alt="big-grid"
               className="w-full h-96 object-cover object-bottom"
             />
@@ -40,17 +40,17 @@ function Gallery() {
           <RevealWrapper origin="top" duration={1500}>
             <div className="grid grid-cols-3 gap-1 mt-1">
               <img
-                src="/images/gallery/2.jpg"
+                src="/images/gallery/gird1.JPG"
                 alt="grid-1"
                 className="h-32 object-cover w-full"
               />
               <img
-                src="/images/gallery/4.jpg"
+                src="/images/gallery/gird2.JPG"
                 alt="grid-2"
                 className="h-32 object-cover w-full"
               />
               <img
-                src="/images/gallery/6.jpg"
+                src="/images/gallery/gird3.JPG"
                 alt="grid-3"
                 className="h-32 object-cover w-full"
               />
