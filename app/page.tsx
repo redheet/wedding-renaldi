@@ -9,6 +9,7 @@ import WeddingEvents from "./components/WeddingEvents";
 import Reservation from "./components/Reservation";
 import Gallery from "./components/Gallery";
 import Footer from "./components/Footer";
+import CardRek from "./components/CardRek";
 import { RevealWrapper } from "next-reveal";
 
 export default function Home() {
@@ -29,6 +30,7 @@ export default function Home() {
       <Profile />
       <WeddingEvents />
       <Reservation />
+      <CardRek />
       <Gallery />
       <Footer />
     </main>

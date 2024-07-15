@@ -32,7 +32,7 @@ function Gallery() {
           </div>
           <RevealWrapper origin="right" duration={1500}>
             <img
-              src="/images/gallery/bigGird.JPG"
+              src="/images/gallery/footer.JPG"
               alt="big-grid"
               className="w-full h-96 object-cover object-bottom"
             />
