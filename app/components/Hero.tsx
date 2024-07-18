@@ -30,7 +30,7 @@ function Hero({
           </div>
           {/* {nama.map((tamu) => ( */}
           <div className="flex flex-col items-center gap-2">
-            <p className="text-[0.8rem]">Kediaman Mempelai Wanita</p>
+            {/* <p className="text-[0.8rem]">Kediaman Mempelai Wanita</p> */}
             <p className="text-[0.8rem]">
             Jl. Sasak, RT.002/007 No.136, Kel. Kalimulya, Kec. Cilodong, Depok
             </p>
