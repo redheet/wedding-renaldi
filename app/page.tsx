@@ -6,7 +6,7 @@ import ArRum from "./components/surat/ArRum";
 import Hero from "./components/hero/Hero";
 import Profile from "./components/Profile/Profile";
 import WeddingEvents from "./components/weddingevent/WeddingEvents";
-import Reservation from "./components/reservation/Reservation";
+// import Reservation from "./components/reservation/Reservation";
 import Gallery from "./components/gallery/Gallery";
 import Footer from "./components/footer/Footer";
 import CardRek from "./components/card/CardRek";
