@@ -38,10 +38,10 @@ function WeddingEvents() {
                     Kediaman Mempelai Wanita
                     </strong>
                     <br />
-                    Jl. Sasak, RT.002/007 No.136, Kel. Kalimulya, Kec. Cilodong, Depok
+                    Jl. H. Mardan 96, Kalimulya, Kec. Cilodong, Kota Depok, Jawa Barat 16413
                   </p>
                   <a
-                    href="https://www.google.com/maps/place/6%C2%B025'52.3%22S+106%C2%B049'29.7%22E/@-6.4311944,106.8223418,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.4311944!4d106.8249167?entry=ttu"
+                    href="https://www.google.com/maps/place/6%C2%B025'52.0%22S+106%C2%B049'28.1%22E/@-6.4311111,106.8218973,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.4311111!4d106.8244722?entry=ttu"
                     className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                     target="_blank"
                   >
@@ -76,10 +76,10 @@ function WeddingEvents() {
                     Kediaman Mempelai Wanita
                     </strong>
                     <br />
-                    Jl. Sasak, RT.002/007 No.136, Kel. Kalimulya, Kec. Cilodong, Depok
+                    Jl. H. Mardan 96, Kalimulya, Kec. Cilodong, Kota Depok, Jawa Barat 16413
                   </p>
                   <a
-                    href="https://www.google.com/maps/place/6%C2%B025'52.3%22S+106%C2%B049'29.7%22E/@-6.4311944,106.8223418,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.4311944!4d106.8249167?entry=ttu"
+                    href="https://www.google.com/maps/place/6%C2%B025'52.0%22S+106%C2%B049'28.1%22E/@-6.4311111,106.8218973,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.4311111!4d106.8244722?entry=ttu"
                     className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                     target="_blank"
                   >

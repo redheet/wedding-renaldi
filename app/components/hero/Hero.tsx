@@ -5,12 +5,12 @@ import { RxEnvelopeOpen } from "react-icons/rx";
 import useSound from "use-sound";
 import { RevealWrapper } from "next-reveal";
 
-function Hero({
+export default function Hero({
   setCurrentOverflow,
 }: {
   setCurrentOverflow: React.Dispatch<React.SetStateAction<string>>;
 }) {
-  const [play] = useSound("/audio/backsound-3.mp3", {
+  const [play] = useSound("/audio/backsound-4.mp3", {
     volume: 0.35,
   });
 
@@ -32,7 +32,7 @@ function Hero({
           <div className="flex flex-col items-center gap-2">
             {/* <p className="text-[0.8rem]">Kediaman Mempelai Wanita</p> */}
             <p className="text-[0.8rem]">
-            Jl. Sasak, RT.002/007 No.136, Kel. Kalimulya, Kec. Cilodong, Depok
+            Jl. H. Mardan 96, Kalimulya, Kec. Cilodong, Kota Depok, Jawa Barat 16413
             </p>
             {/* <p>{tamu}</p> */}
             <RevealWrapper duration={4000} origin="bottom">
@@ -40,7 +40,7 @@ function Hero({
                 href="#countdown"
                 onClick={() => {
                   setCurrentOverflow("auto");
-                  // play();
+                  play();
                 }}
                 className="font-bold text-sm bg-[#ffffff36] border border-[#bdb08f8c] rounded-lg flex items-center gap-2 px-6 py-3 mt-6 hover:scale-90 ease-linear duration-[0.2s]"
               >
@@ -56,5 +56,3 @@ function Hero({
     </section>
   );
 }
-
-export default Hero;
