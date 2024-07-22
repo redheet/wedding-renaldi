@@ -10,7 +10,7 @@ import {
 import React, { useEffect, useState } from "react";
 import { AiOutlineClockCircle } from "react-icons/ai";
 import { RxEnvelopeOpen } from "react-icons/rx";
-import { db, sendReservation } from "../../firebase";
+import { db, sendReservation } from "../firebase";
 import { RevealWrapper } from "next-reveal";
 
 function Reservation() {

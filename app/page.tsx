@@ -1,15 +1,15 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Countdown from "./components/countdown/Countdown";
-import ArRum from "./components/surat/ArRum";
-import Hero from "./components/hero/Hero";
-import Profile from "./components/Profile/Profile";
-import WeddingEvents from "./components/weddingevent/WeddingEvents";
-// import Reservation from "./components/reservation/Reservation";
-import Gallery from "./components/gallery/Gallery";
-import Footer from "./components/footer/Footer";
-import CardRek from "./components/card/CardRek";
+import Countdown from "./components/Countdown";
+import ArRum from "./components/ArRum";
+import Hero from "./components/Hero";
+import Profile from "./components/Profile";
+import WeddingEvents from "./components/WeddingEvents";
+import Reservation from "./components/Reservation";
+import Gallery from "./components/Gallery";
+import Footer from "./components/Footer";
+import CardRek from "./components/CardRek";
 import { RevealWrapper } from "next-reveal";
 
 export default function Home() {
@@ -21,7 +21,7 @@ export default function Home() {
   }, [currentOverflow]);
 
   return (
-    <div className="max-w-[28.125rem] mx-auto">
+    <main className="max-w-[28.125rem] mx-auto">
       <RevealWrapper duration={1500}>
         <Hero setCurrentOverflow={setCurrentOverflow} />
       </RevealWrapper>
@@ -29,10 +29,10 @@ export default function Home() {
       <ArRum />
       <Profile />
       <WeddingEvents />
-      {/* <Reservation /> */}
+      <Reservation />
       <CardRek />
       <Gallery />
       <Footer />
-    </div>
+    </main>
   );
 }
