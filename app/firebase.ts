@@ -28,6 +28,7 @@ async function sendReservation(
   try {
     await addDoc(collection(db, "reservation"), {
       name: name,
+      
       wish: wish,
       presence: presence,
       time: serverTimestamp(),

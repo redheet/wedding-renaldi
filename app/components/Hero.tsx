@@ -12,6 +12,7 @@ export default function Hero({
 }) {
   const [play] = useSound("/audio/backsound-4.mp3", {
     volume: 0.35,
+    loop: true,
   });
 
   // const nama = ['Noufal Zainudin Zidane', 'Muhammad Yusuf Maulana', 'Dhea Zulfa'];

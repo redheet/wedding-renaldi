@@ -6,8 +6,8 @@ function CardRek() {
   return (
     <section id="wedding-events">
       <div className="bg-[url('/images/cardrek/bg.png')] min-h-screen flex justify-center items-center">
-        <div className="space-y-12">
-          <h1 className="text-4xl italic text-white text-center font-light font-sans mt-12">
+        <div className="space-y-12 ">
+          <h1 className="text-4xl italic text-white text-center font-light font-sans mt-8">
             Wedding Gift
           </h1>
           <p className="text-center text-[0.75rem] leading-loose text-white mx-8 italic">
@@ -89,6 +89,11 @@ function CardRek() {
               </div>
             </div>
           </div>
+          <p className="text-center text-[0.75rem] leading-loose text-white mx-8 italic ">
+            Tiada Yang Dapat Kami Ungkapkan Selain Rasa Terimakasih dari Hati
+            Yang Tulus Apabila Bapak/ Ibu/ Saudara/i Berkenan Hadir Untuk
+            Memberi Do'a Restu Kepada Kami.
+          </p>
         </div>
       </div>
     </section>
