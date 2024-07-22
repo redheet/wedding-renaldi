@@ -2,7 +2,7 @@ import React from "react";
 import Countdown from "react-countdown";
 import { RevealWrapper } from "next-reveal";
 
-function CountdownComp() {
+const CountdownComp: React.FC = () => {
   function renderer({
     days,
     hours,
