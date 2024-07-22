@@ -13,7 +13,7 @@ function ArRum() {
           </h1>
         </RevealWrapper>
         <RevealWrapper duration={1500} origin="top">
-          <p className="text-[0.75rem] leading-loose text-[#424242]">
+          <p className="text-[0.75rem] leading-loose text-[#424242] italic">
             "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan
             pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung
             dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa

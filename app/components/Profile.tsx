@@ -8,7 +8,7 @@ function Profile() {
     <section id="people">
       <div className="bg-[url('/images/profile/bg.jpg')] bg-center bg-no-repeat bg-cover px-12 py-16">
         <RevealWrapper duration={1500}>
-          <p className="text-center text-[0.75rem] leading-loose text-[#424242]">
+          <p className="text-center text-[0.75rem] leading-loose text-[#424242] italic">
             <strong>Bismillahirrahmanirrahim</strong>
             <br />
             Assalamu'alaikum Warahmatullaahi Wabarakaatuh. Dengan memohon Rahmat
@@ -35,7 +35,7 @@ function Profile() {
         </div>
         <div className="flex flex-col items-end text-right gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
-            <h1 className="italic text-2xl font-light">
+            <h1 className="italic text-3xl font-light">
               Aulia Dwiyatni
             </h1>
           </RevealWrapper>
@@ -59,7 +59,7 @@ function Profile() {
           <RevealWrapper duration={1500} origin="left">
             <img
               src="/images/profile/Profile.JPG"
-              alt="Akbar"
+              alt="Renaldi"
               className="-translate-x-[3rem]"
             />
           </RevealWrapper>
@@ -74,7 +74,7 @@ function Profile() {
         </div>
         <div className="flex flex-col items-start text-left gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
-            <h1 className="italic text-2xl font-light">
+            <h1 className="italic text-3xl font-light">
               Septian Renaldi Yusuf
             </h1>
           </RevealWrapper>

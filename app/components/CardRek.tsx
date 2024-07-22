@@ -5,30 +5,38 @@ function CardRek() {
   const [value, copy] = useCopyToClipboard();
   return (
     <section id="wedding-events">
-      <div className="bg-white min-h-screen flex justify-center items-center">
-        <div className="space-y-16">
-          <div className="w-96 h-56 m-auto bg-red-100 rounded-xl relative text-slate-900 shadow-2xl transition-transform transform hover:scale-110">
+      <div className="bg-[url('/images/cardrek/bg.png')] min-h-screen flex justify-center items-center">
+        <div className="space-y-12">
+          <h1 className="text-4xl italic text-white text-center font-light font-sans mt-12">
+            Wedding Gift
+          </h1>
+          <p className="text-center text-[0.75rem] leading-loose text-white mx-8 italic">
+            Do'a Restu Anda Merupakan Karunia Yang Sangat Berarti Bagi Kami. Dan
+            Jika Memberi Adalah Ungkapan Tanda Terima Kasih Anda. Anda dapat
+            memberi Kado Secara Cashless
+          </p>
+          <div className="w-80 h-35 m-auto text-xs bg-red-100 rounded-xl relative text-slate-900 shadow-2xl transition-transform transform hover:scale-110">
             <img
               className="relative object-cover w-full h-full rounded-xl"
-              src="https://i.imgur.com/kGkSg1v.png"
+              src="/images/cardrek/card.png"
             />
 
             <div className="w-full px-8 absolute top-8">
               <div className="flex justify-between">
                 <div className="">
                   <p className="font-light">Name </p>
-                  <p className="font-medium tracking-widest">
+                  <p className="font-bold tracking-widest">
                     Septian Renaldi Yusuf
                   </p>
                 </div>
-                <img className="w-16 h-6" src="/images/cardrek/bca-logo.png" />
+                <img className="w-14 h-4" src="/images/cardrek/bca-logo.png" />
               </div>
               <br />
               <div className="pt-1">
                 <p className="font-light">Card Number</p>
-                <p className="font-medium tracking-more-wider">7151474318</p>
+                <p className="font-bold tracking-more-wider">7151474318</p>
                 <button
-                  className="bg-blue-400 ml-[240px] text-slate-900 font-bold py-2 px-4 rounded inline-flex items-center"
+                  className="bg-orange-400 ml-[190px] text-white font-bold py-2 px-4 rounded inline-flex items-center"
                   onClick={() => copy("7151474318")}
                 >
                   <svg
@@ -45,27 +53,27 @@ function CardRek() {
             </div>
           </div>
 
-          <div className="w-96 h-56 m-auto bg-red-100 rounded-xl relative text-white shadow-2xl transition-transform transform hover:scale-110">
+          <div className="w-80 h-35 m-auto text-xs bg-red-100 rounded-xl relative text-slate-900 shadow-2xl transition-transform transform hover:scale-110">
             <img
               className="relative object-cover w-full h-full rounded-xl"
-              src="https://i.imgur.com/Zi6v09P.png"
+              src="/images/cardrek/card.png"
             />
 
             <div className="w-full px-8 absolute top-8">
               <div className="flex justify-between">
                 <div className="">
                   <p className="font-light">Name </p>
-                  <p className="font-medium tracking-widest">Aulia Dwiyatni</p>
+                  <p className="font-bold tracking-widest">Aulia Dwiyatni</p>
                 </div>
-                <img className="w-16 h-6" src="/images/cardrek/bca-logo.png" />
+                <img className="w-14 h-4" src="/images/cardrek/bca-logo.png" />
               </div>
               <br />
               <div className="pt-1">
                 <p className="font-light">Card Number</p>
-                
-                <p className="font-medium tracking-more-wider">4210042011</p>
+
+                <p className="font-bold tracking-more-wider">4210042011</p>
                 <button
-                  className="bg-orange-400 ml-[240px] text-white font-bold py-2 px-4 rounded inline-flex items-center"
+                  className="bg-orange-400 ml-[190px] text-white font-bold py-2 px-4 rounded inline-flex items-center"
                   onClick={() => copy("4210042011")}
                 >
                   <svg

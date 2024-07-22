@@ -22,7 +22,7 @@ export default function Hero({
         <div className="absolute inset-0 bg-black/70 z-10" />
         <div className="flex flex-col justify-between py-28 px-12 text-center z-20 relative h-screen">
           <div>
-            <p className="font-extralight text-[0.75rem]">The Wedding of</p>
+            <p className="font-extralight text-[0.75rem] ">The Wedding of</p>
             <h1 className="text-4xl font-light mt-2 font-sans">Aulia & Renaldi</h1>
             <p className="font-extralight text-[0.8rem] mt-4">
               Sabtu, 03 Agustus 2024
